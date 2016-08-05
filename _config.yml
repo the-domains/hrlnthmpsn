@@ -1,0 +1,14 @@
+layout_spectrum: 0.08957079611718655
+typography_spectrum: 0.9956886067520827
+color:
+  brandStrength: 0.1668219966813922
+  lightness: 0.841688115382567
+  saturation: 0.4426213768310845
+  rhythmicContrast: 0.5204047400038689
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: hrlnthmpsn
