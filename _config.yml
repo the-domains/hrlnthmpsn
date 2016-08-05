@@ -1,4 +1,3 @@
-layout_spectrum: 0.08957079611718655
 typography_spectrum: 0.9956886067520827
 color:
   brandStrength: 0.1668219966813922
@@ -11,5 +10,7 @@ color:
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
+layout_spectrum: 0.08957079611718655
 name: hrlnthmpsn
 title: Nothing special.
+description: Unprofessional photography.
